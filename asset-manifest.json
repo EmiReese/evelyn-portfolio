@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/evelyn-portfolio/static/css/main.f855e6bc.css",
-    "main.js": "/evelyn-portfolio/static/js/main.2cdf24cb.js",
-    "static/js/787.f03329f5.chunk.js": "/evelyn-portfolio/static/js/787.f03329f5.chunk.js",
-    "static/media/logo.svg": "/evelyn-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/evelyn-portfolio/static/css/main.2ac3b7c8.css",
+    "main.js": "/evelyn-portfolio/static/js/main.c66b4b7d.js",
+    "static/media/Evelyn.jpg": "/evelyn-portfolio/static/media/Evelyn.bf1bf9746b8a29551d6e.jpg",
     "index.html": "/evelyn-portfolio/index.html",
-    "main.f855e6bc.css.map": "/evelyn-portfolio/static/css/main.f855e6bc.css.map",
-    "main.2cdf24cb.js.map": "/evelyn-portfolio/static/js/main.2cdf24cb.js.map",
-    "787.f03329f5.chunk.js.map": "/evelyn-portfolio/static/js/787.f03329f5.chunk.js.map"
+    "main.2ac3b7c8.css.map": "/evelyn-portfolio/static/css/main.2ac3b7c8.css.map",
+    "main.c66b4b7d.js.map": "/evelyn-portfolio/static/js/main.c66b4b7d.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.2cdf24cb.js"
+    "static/css/main.2ac3b7c8.css",
+    "static/js/main.c66b4b7d.js"
   ]
 }
