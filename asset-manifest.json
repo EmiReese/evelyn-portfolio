@@ -1,14 +1,24 @@
 {
   "files": {
-    "main.css": "/evelyn-portfolio/static/css/main.2ac3b7c8.css",
-    "main.js": "/evelyn-portfolio/static/js/main.c66b4b7d.js",
+    "main.css": "/evelyn-portfolio/static/css/main.f01c4b7d.css",
+    "main.js": "/evelyn-portfolio/static/js/main.4f1f34ab.js",
+    "static/media/MSU.pdf": "/evelyn-portfolio/static/media/MSU.a81a88cb3976866a8413.pdf",
+    "static/media/image5.jpg": "/evelyn-portfolio/static/media/image5.28766547e95595128139.jpg",
+    "static/media/image4.jpg": "/evelyn-portfolio/static/media/image4.09dc452f7268e8f6a760.jpg",
+    "static/media/image3.png": "/evelyn-portfolio/static/media/image3.576d287f7f079fdaa6bc.png",
+    "static/media/culinaryArts.pdf": "/evelyn-portfolio/static/media/culinaryArts.7143106e03e863ae1831.pdf",
+    "static/media/AShelterFromTheStorm.pdf": "/evelyn-portfolio/static/media/AShelterFromTheStorm.ad852789b56dfac6df65.pdf",
+    "static/media/image1.png": "/evelyn-portfolio/static/media/image1.7b5faad29ac6d6bd1146.png",
+    "static/media/Healthcare.pdf": "/evelyn-portfolio/static/media/Healthcare.3eef5ed58c267cb12830.pdf",
+    "static/media/adultCare.pdf": "/evelyn-portfolio/static/media/adultCare.2964bf54fe02b9dfd936.pdf",
+    "static/media/image2.png": "/evelyn-portfolio/static/media/image2.cda3d1a4fca5dc986e11.png",
     "static/media/Evelyn.jpg": "/evelyn-portfolio/static/media/Evelyn.bf1bf9746b8a29551d6e.jpg",
     "index.html": "/evelyn-portfolio/index.html",
-    "main.2ac3b7c8.css.map": "/evelyn-portfolio/static/css/main.2ac3b7c8.css.map",
-    "main.c66b4b7d.js.map": "/evelyn-portfolio/static/js/main.c66b4b7d.js.map"
+    "main.f01c4b7d.css.map": "/evelyn-portfolio/static/css/main.f01c4b7d.css.map",
+    "main.4f1f34ab.js.map": "/evelyn-portfolio/static/js/main.4f1f34ab.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ac3b7c8.css",
-    "static/js/main.c66b4b7d.js"
+    "static/css/main.f01c4b7d.css",
+    "static/js/main.4f1f34ab.js"
   ]
 }
