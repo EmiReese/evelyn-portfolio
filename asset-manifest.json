@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/evelyn-portfolio/static/css/main.f01c4b7d.css",
-    "main.js": "/evelyn-portfolio/static/js/main.4f1f34ab.js",
+    "main.css": "/evelyn-portfolio/static/css/main.e1f96764.css",
+    "main.js": "/evelyn-portfolio/static/js/main.618c0a60.js",
     "static/media/MSU.pdf": "/evelyn-portfolio/static/media/MSU.a81a88cb3976866a8413.pdf",
     "static/media/image5.jpg": "/evelyn-portfolio/static/media/image5.28766547e95595128139.jpg",
     "static/media/image4.jpg": "/evelyn-portfolio/static/media/image4.09dc452f7268e8f6a760.jpg",
@@ -14,11 +14,11 @@
     "static/media/image2.png": "/evelyn-portfolio/static/media/image2.cda3d1a4fca5dc986e11.png",
     "static/media/Evelyn.jpg": "/evelyn-portfolio/static/media/Evelyn.bf1bf9746b8a29551d6e.jpg",
     "index.html": "/evelyn-portfolio/index.html",
-    "main.f01c4b7d.css.map": "/evelyn-portfolio/static/css/main.f01c4b7d.css.map",
-    "main.4f1f34ab.js.map": "/evelyn-portfolio/static/js/main.4f1f34ab.js.map"
+    "main.e1f96764.css.map": "/evelyn-portfolio/static/css/main.e1f96764.css.map",
+    "main.618c0a60.js.map": "/evelyn-portfolio/static/js/main.618c0a60.js.map"
   },
   "entrypoints": [
-    "static/css/main.f01c4b7d.css",
-    "static/js/main.4f1f34ab.js"
+    "static/css/main.e1f96764.css",
+    "static/js/main.618c0a60.js"
   ]
 }
